@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: korfoe-com.m-v1.mx.microsoft
+mx: *.mail.protection.outlook.com
+max_age: 604800
